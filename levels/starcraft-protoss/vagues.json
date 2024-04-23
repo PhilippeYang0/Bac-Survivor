@@ -1,0 +1,73 @@
+[
+    {
+        "NUMERO": 1,
+        "ENNEMIES": {"interceptor": 4}
+    },
+    {
+        "NUMERO": 2,
+        "ENNEMIES": {"interceptor": 3,
+                     "zealot": 2}
+    },
+    {
+        "NUMERO": 3,
+        "ENNEMIES": {"interceptor": 7,
+                     "zealot": 2}
+    },
+    {
+        "NUMERO": 4,
+        "ENNEMIES": {"dragoon": 3,
+                     "interceptor": 4}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"adun_spear": 1,
+                     "interceptor": 3,
+                     "zealot": 5}
+    },
+    {
+        "NUMERO": 6,
+        "ENNEMIES": {"colossus": 3,
+                     "zealot": 5}
+    },
+    {
+        "NUMERO": 7,
+        "ENNEMIES": {"immortal": 2,
+                     "interceptor": 10}
+    },
+    {
+        "NUMERO": 8,
+        "ENNEMIES": {"carrier": 1,
+                     "interceptor": 5,
+                     "adun_spear": 2}
+    },
+    {
+        "NUMERO": 15,
+        "ENNEMIES": {"colossus": 10}
+    },
+    {
+        "NUMERO": 16,
+        "ENNEMIES": {"colossus": 2,
+                     "dragoon": 5,
+                     "immortal": 1}
+    },
+    {
+        "NUMERO": 18,
+        "ENNEMIES": {"mothership": 1,
+                     "zealot": 20}
+    },
+    {
+        "NUMERO": 19,
+        "ENNEMIES": {"colossus": 1,
+                     "dragoon": 1,
+                     "interceptor": 1,
+                     "adun_spear": 1,
+                     "immortal": 1,
+                     "carrier": 1,
+                     "zealot": 1}
+    },
+    {
+        "NUMERO": 20,
+        "ENNEMIES": {"great_mothership": 1,
+                     "colossus": 3}
+    }
+]

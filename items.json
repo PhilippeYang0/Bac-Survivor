@@ -1,0 +1,55 @@
+[
+    {
+        "type" : "buff",
+        "availability": 9999,
+        "nom" : "potion de vie",
+        "image": "sprite/coeur.png",
+        "stats" : { "category": "health",
+                    "modifier": "ADD",
+                    "value": 20,
+                    "duree": 0},
+        "prix": 6
+    },
+    {
+        "type" : "buff",
+        "availability": 1,
+        "nom" : "bottes de vitesse",
+        "image": "sprite/botte.jpg",
+        "stats" : { "category": "speed",
+                    "modifier": "ADD_PER",
+                    "value": 2,
+                    "duree": 0},
+        "prix": 20
+    },
+    {
+        "type": "buff",
+        "nom": "renforce degat",
+        "image": "sprite/epee.jpg",
+        "stats": { "category": "degat",
+                    "modifier": "ADD_PER",
+                    "value": 0.1,
+                    "duree": 0},
+        "availability": 1,
+        "prix": 40
+    },
+    {
+        "type": "buff",
+        "nom": "renforce vitesse d'attaque",
+        "image": "sprite/epee.jpg",
+        "stats": { "category": "cooldown",
+                    "modifier": "ADD_PER",
+                    "value": -0.1,
+                    "duree": 0},
+        "availability": 1,
+        "prix": 40
+    },
+    {"type": "buff",
+    "nom": "renforce degat temporaire",
+    "image": "sprite/epee.jpg",
+    "stats": { "category": "degat",
+                "modifier": "ADD",
+                "value": 0.4,
+                "duree": 3600},
+    "availability": 3,
+    "prix": 15}
+]

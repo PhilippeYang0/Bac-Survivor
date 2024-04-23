@@ -1,0 +1,88 @@
+[
+    {
+        "NUMERO": 1,
+        "ENNEMIES": {"alice": 4}
+    },
+    {
+        "NUMERO": 2,
+        "ENNEMIES": {"reisen": 2,
+                     "alice": 3}
+    },
+    {
+        "NUMERO": 3,
+        "ENNEMIES": {"cirno": 2,
+                     "alice": 4,
+                    "reisen": 3}
+    },
+    {
+        "NUMERO": 4,
+        "ENNEMIES": {"cirno": 3,
+                     "patchouli":2,
+                     "alice":6,
+                     "reisen":3}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"remilia":1}
+    },
+    {
+        "NUMERO": 6,
+        "ENNEMIES": {"remilia": 1,
+                     "alice": 4,
+                    "reisen": 2}
+    },
+    {
+        "NUMERO": 7,
+        "ENNEMIES": {"reimu": 1,
+                     "reisen": 4,
+                     "alice":6,
+                    "patchouli": 1}
+    },
+    {
+        "NUMERO": 8,
+        "ENNEMIES": {"remilia": 1,
+                     "reimu": 1,
+                     "cirno" : 3,
+                     "reisen" : 4,
+                     "patchouli":1}
+    },
+    {
+        "NUMERO": 9,
+        "ENNEMIES": {"flandre" : 1,
+                     "cirno": 3,
+                    "reimu": 2}
+    },
+    {
+        "NUMERO": 10,
+        "ENNEMIES": {"remilia": 1,
+                     "flandre": 1,
+                     "patchouli": 1,
+                     "reisen":2,
+                     "alice":4}
+    },
+    {
+        "NUMERO": 12,
+        "ENNEMIES": {"remilia": 2,
+                     "flandre": 1,
+                     "cirno": 2}
+    },
+    {
+        "NUMERO": 13,
+        "ENNEMIES": {"youmu": 1}
+    },
+    {
+        "NUMERO": 14,
+        "ENNEMIES": {"youmu": 1,
+                     "patchouli":2,
+                     "alice":6,
+                     "reisen":4,
+                     "cirno" : 2}
+    },
+    {
+        "NUMERO": 15,
+        "ENNEMIES": {"youmu": 1,
+                     "remilia":1,
+                     "flandre":1,
+                     "reimu":1}
+    }
+]

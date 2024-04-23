@@ -1,0 +1,29 @@
+Pour chaque fichier weapon.json, il faut un dictionnaire avec
+en clé, le nom de l'arme et en valeur, un nouveau dictionnaire:
+    en clés: "category" et "levels"
+    en valeurs: "bullet" ou "effet" pour le premier, une liste pour le second.
+
+    Cette liste contient des ditcionnaieres:
+        en clés: "cooldown", "degat", "display", "size", "type", "sound"
+        si category == "bullet": "amount_fired", "speed", "dispersion"
+        si category == "effect": "time_before_activation"
+
+    Chacun des éléments de la liste de dictionnaire correspond à un niveau de l'arme, pour les stats, il est
+    possible de ne pas mettre de clés pour certaines valeur, pour signifier qu'il prend la valeur du niveau
+    précédent.
+
+Exemple:
+
+{"nom_arme": { "category": "bullet",
+               "levels": [{"cooldown": 1,
+                          "degat": 1,
+                          "display":"bullet_display.png",
+                          "size":[50,50],
+                          "type": "DIRECT",
+                          "amount_fired": 1,
+                          "speed": 2,
+                          "sound": "bullet_sound.wav"},
+                          {"degat": 2},
+                          {"amount_fired": 3,
+                          "display":"bullet_display_2.png"}]
+                        }}

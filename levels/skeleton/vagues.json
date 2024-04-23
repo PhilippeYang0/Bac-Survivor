@@ -1,0 +1,67 @@
+[
+    {
+        "NUMERO": 1,
+        "ENNEMIES": {"warrior": 3,
+                     "archer": 3}
+    },
+    {
+        "NUMERO": 2,
+        "ENNEMIES": {"warrior": 6,
+                     "archer": 7}
+    },
+    {
+        "NUMERO": 3,
+        "ENNEMIES": {"warrior_2": 1,
+                     "warrior": 4,
+                     "archer": 6}
+    },
+    {
+        "NUMERO": 4,
+        "ENNEMIES": {"hound": 3}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"warrior_2": 4,
+                     "archer": 15}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"hound": 5,
+                     "archer": 10}
+    },
+    {
+        "NUMERO": 6,
+        "ENNEMIES": {"berserker": 1,
+                     "archer": 10}
+    },
+    {
+        "NUMERO": 7,
+        "ENNEMIES": {"mage": 1}
+    },
+    {
+        "NUMERO": 8,
+        "ENNEMIES": {"hound": 1,
+                     "berserker": 2,
+                     "warrior": 10,
+                     "archer": 10}
+    },
+    {
+        "NUMERO": 9,
+        "ENNEMIES": {"warrior_2": 6,
+                     "archer": 25}
+    },
+    {
+        "NUMERO": 10,
+        "ENNEMIES": {"archer": 50}
+    },
+    {
+        "NUMERO": 11,
+        "ENNEMIES": {"lord": 1,
+                     "warrior": 10,
+                     "archer": 10}
+    },
+    {
+        "NUMERO": 12,
+        "ENNEMIES": {"necromancien": 1}
+    }
+]

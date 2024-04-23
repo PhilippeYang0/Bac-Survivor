@@ -1,0 +1,10 @@
+[
+    {"DUREE_EXISTANCE" : 2000,
+     "STATS_BUFF" : ["health","ADD",10,0],
+     "DISPLAY" : "sprite/pickup.png",
+     "POIDS" :3},
+     {"DUREE_EXISTANCE" : 2000,
+     "STATS_BUFF" : ["guerison","ADD",0.01,10000],
+     "DISPLAY" : "sprite/pickup.png",
+     "POIDS" : 1}
+]

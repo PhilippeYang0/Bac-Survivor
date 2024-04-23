@@ -1,0 +1,22 @@
+{"blade": { "category": "effect",
+                 "choix_display": "levels/starcraft-protoss/sprites/blade.jpg",
+                 "unlocked": true,
+                 "prix": 20,
+                "levels": [{"cooldown": 10,
+                    "degat": 8,
+                    "display":"levels/starcraft-protoss/effects/arc_de_cercle.png",
+                    "size":[200,300],
+                    "type": "NEXT_TO_LAUNCHER",
+                    "time_before_activation": 10,
+                    "sound": "levels/starcraft-protoss/sound/fire.wav"},
+                    {"degat":12},
+                    {"cooldown": 9,
+                     "degat": 16},
+                    {"degat": 20},
+                    {"cooldown": 8},
+                    {"degat": 25},
+                    {"degat":30},
+                    {"cooldown": 7},
+                    {"cooldown":6}]
+  }
+}

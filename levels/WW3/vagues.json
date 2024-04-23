@@ -1,0 +1,69 @@
+[
+    {
+        "NUMERO": 1,
+        "ENNEMIES": {"kim": 3,
+                     "poutine": 3}
+    },
+    {
+        "NUMERO": 2,
+        "ENNEMIES": {"xi_jiping": 4,
+                     "zelensky": 1}
+    },
+    {
+        "NUMERO": 3,
+        "ENNEMIES": {"macron": 1,
+                     "obama": 4,
+                     "xi_jiping": 6}
+    },
+    {
+        "NUMERO": 4,
+        "ENNEMIES": {"zelensky": 3}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"trump": 1,
+                     "xi_jiping": 5}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"macron": 5,
+                     "poutine": 10}
+    },
+    {
+        "NUMERO": 6,
+        "ENNEMIES": {"xi_jiping": 1,
+                     "poutine": 10}
+    },
+    {
+        "NUMERO": 7,
+        "ENNEMIES": {"queen": 1}
+    },
+    {
+        "NUMERO": 8,
+        "ENNEMIES": {"kim": 1,
+                     "macron": 2,
+                     "poutine": 10,
+                     "obama": 10}
+    },
+    {
+        "NUMERO": 9,
+        "ENNEMIES": {"trump": 3,
+                     "obama": 25}
+    },
+    {
+        "NUMERO": 10,
+        "ENNEMIES": {"queen": 2,
+			    "macron" : 10}
+    },
+    {
+        "NUMERO": 11,
+        "ENNEMIES": {"kim": 1,
+                     "obama": 1,
+                     "macron": 1,
+                     "poutine": 1,
+			        "trump": 1,
+                     "zelensky": 1,
+                     "xi_jiping": 1,
+                     "queen": 1}
+    }
+]

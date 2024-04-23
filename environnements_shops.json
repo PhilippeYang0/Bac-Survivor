@@ -1,0 +1,23 @@
+[
+    {
+        "prix": 10,
+        "nom": "levels/starcraft-protoss/",
+        "image": "levels/starcraft-protoss/display_choix.png"
+    },{
+        "prix":15,
+        "nom": "levels/skeleton/",
+        "image":"levels/skeleton/display_choix.png"
+    },{
+        "prix": 20,
+        "nom": "levels/WW3/",
+        "image": "levels/WW3/display_choix.png"
+    },{
+        "prix": 20,
+        "nom":"levels/MC-Sofiane/",
+        "image": "levels/MC-Sofiane/display_choix.png"
+    },{
+        "prix": 1,
+        "nom":"levels/touhou/",
+        "image": "levels/touhou/display_choix.png"
+    }
+]

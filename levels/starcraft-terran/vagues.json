@@ -1,0 +1,94 @@
+[
+    {
+        "NUMERO": 3,
+        "ENNEMIES": {"marine": 4}
+    },
+    {
+        "NUMERO": 2,
+        "ENNEMIES": {"marine": 3,
+                     "firebat": 2}
+    },
+    {
+        "NUMERO": 3,
+        "ENNEMIES": {"marine": 7,
+                     "firebat": 2}
+    },
+    {
+        "NUMERO": 4,
+        "ENNEMIES": {"hellion": 3,
+                     "marine": 4}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"marauder": 1,
+                     "marine": 3,
+                     "firebat": 5}
+    },
+    {
+        "NUMERO": 6,
+        "ENNEMIES": {"auto_turret": 3,
+                     "firebat": 5}
+    },
+    {
+        "NUMERO": 7,
+        "ENNEMIES": {"wraith": 2,
+                     "marine": 10}
+    },
+    {
+        "NUMERO": 8,
+        "ENNEMIES": {"thor": 1,
+                     "marine": 5,
+                     "marauder": 2}
+    },
+    {
+        "NUMERO": 9,
+        "ENNEMIES": {"barracks": 1,
+                     "marine": 10}
+    },
+    {
+        "NUMERO": 10,
+        "ENNEMIES": {"scv": 40}
+    },
+    {
+        "NUMERO": 15,
+        "ENNEMIES": {"auto_turret": 10}
+    },
+    {
+        "NUMERO": 16,
+        "ENNEMIES": {"auto_turret": 2,
+                     "hellion": 5,
+                     "wraith": 1}
+    },
+    {
+        "NUMERO": 17,
+        "ENNEMIES": {"auto_turret": 5,
+                     "barracks":2,
+                     "sieged_tank": 2}
+    },
+    {
+        "NUMERO": 18,
+        "ENNEMIES": {"battlecruiser": 1,
+                     "firebat": 20}
+    },
+    {
+        "NUMERO": 19,
+        "ENNEMIES": {"auto_turret": 1,
+                     "hellion": 1,
+                     "marine": 1,
+                     "marauder": 1,
+                     "wraith": 1,
+                     "thor": 1,
+                     "firebat": 1}
+    },
+    {
+        "NUMERO": 20,
+        "ENNEMIES": {"thor": 2,
+                     "battlecruiser": 1}
+    },
+    {
+        "NUMERO": 21,
+        "ENNEMIES": {"barracks": 6,
+                     "sieged_tank": 5,
+                     "battlecruiser": 1}
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./ressources/interface",
+        "./ressources/interface"
+    ]
+}

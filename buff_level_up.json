@@ -1,0 +1,38 @@
+[
+    {
+     "LEVELS": [2,3,4],
+     "STATS": [["DEGAT", "ADD_PER", 0.03, "sprite/pickup.png"]]
+    },{
+     "LEVELS": [1,2,3],
+     "STATS": [["SPEED", "ADD", 0.2, "sprite/pickup.png"]]
+    },{
+     "LEVELS": [1,2,3],
+     "STATS": [["MAX_HEALTH", "ADD_PER", 0.1, "sprite/pickup.png"]]
+    },{
+     "LEVELS": [1,2,3],
+     "STATS": [["GUERISON", "ADD", 0.002, "sprite/pickup.png"]]
+    },{
+     "LEVELS": [3,4],
+     "STATS": [["MAX_HEALTH", "ADD_PER", 0.03, "sprite/pickup.png"],
+               ["GUERISON", "ADD", 0.0005, "sprite/pickup.png"],
+               ["HEALTH", "ADD_PER", 0.3, "sprite/pickup.png"]]
+    },{
+     "LEVELS": [3,4],
+     "STATS": [["DEGAT", "ADD_PER", 0.01, "sprite/pickup.png"],
+               ["COOLDOWN", "ADD_PER", -0.01, "sprite/pickup.png"],
+               ["BULLET_SPEED", "ADD_PER", 0.1, "sprite/pickup.png"]]
+    },
+
+    {
+        "LEVELS": [5],
+        "STATS": [["AMOUNT_FIRED", "ADD", 1, "sprite/pickup.png"]]
+    },{
+        "LEVELS": [5],
+        "STATS": [["COOLDOWN", "ADD_PER", -0.1, "sprite/pickup.png"]]
+    },
+    
+    {
+        "LEVELS": [10],
+        "STATS": [["COOLDOWN", "ADD_PER", -0.5, "sprite/pickup.png"]]
+    }
+]

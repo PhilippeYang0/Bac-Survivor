@@ -1,0 +1,64 @@
+[
+    {
+        "NUMERO": 1,
+        "ENNEMIES": {"Frites": 3,
+                     "Potatoes": 3}
+    },
+    {
+        "NUMERO": 2,
+        "ENNEMIES": {"Frites": 6,
+                     "Potatoes": 7,
+                 "Coca-Cola" : 3}
+    },
+    {
+        "NUMERO": 3,
+        "ENNEMIES": {"Frites": 4,
+                     "Potatoes": 4,
+                     "Coca-Cola": 2,
+                 "McMuffinEggAndCheese": 1}
+    },
+    {
+        "NUMERO": 4,
+        "ENNEMIES": {"McMuffinEggAndCheese": 3,
+        "McFish":1}
+    },
+    {
+        "NUMERO": 5,
+        "ENNEMIES": {"McFish": 3,
+            "McMuffinEggAndCheese":1,
+                     "Coca-Cola": 1}
+    },
+    {
+        "NUMERO": 6,
+        "ENNEMIES": {"Double_Filet-o-Fish": 2,
+                     "Potatoes": 5,
+                 "Coca-Cola": 2}
+    },
+    {
+        "NUMERO": 7,
+        "ENNEMIES": {"McMuffinEggAndCheese": 2,
+            "McFish": 2,
+                     "Double_Filet-o-Fish": 2}
+    },
+    {
+        "NUMERO": 9,
+        "ENNEMIES": {"Boite_de_20_nuggets": 1,
+            "Double_Filet-o-Fish": 1,
+        "McFish": 1}
+    },
+    {
+        "NUMERO": 9,
+        "ENNEMIES": {"McFlurry_Oreo": 10 }
+    },
+    {
+        "NUMERO": 10,
+        "ENNEMIES": {"Potatoes": 1,
+                     "Frites": 1,
+                     "McMuffinEggAndCheese":1,
+                     "McFish": 1,
+                 "Double_Filet-o-Fish":1,
+                 "Boite_de_20_nuggets":1,
+                 "McFlurry_Oreo":1
+             }
+    }
+]
